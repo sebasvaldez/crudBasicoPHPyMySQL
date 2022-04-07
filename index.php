@@ -168,6 +168,5 @@ $persona = $sentencia->fetchAll(PDO::FETCH_OBJ);
         </div>
     </div>
 </div>
-<h2>VOY EN EL MINUTO 1:08</h2>
 
 <?php include './template/footer.php' ?>
